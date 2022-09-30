@@ -10,7 +10,11 @@ body
     font-family: 'Lato', sans-serif;
     color: #41484b;
 }
+#project
+{
+    background-color: black;
 
+}
 
 
 /* Heder */
@@ -23,7 +27,7 @@ body
 }
 
 #homeFullScreen {
-    background-image: url('../images/header.png');
+    background-color: black;
     overflow: hidden;
 }
 
@@ -37,7 +41,7 @@ body
 .header-text h1
 {
     font-size: 60px;
-    color: #fff;
+    color: aqua;
     text-transform: uppercase;
 }
 
@@ -65,8 +69,8 @@ body
 }
 
 .nopadding {
-   padding: 0 !important;
-   margin: 0 !important;
+   padding:  !important;
+   margin:  !important;
 }
 
 .feature-box
