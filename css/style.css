@@ -15,7 +15,10 @@ body
     background-color: black;
 
 }
-
+#file{
+    
+    text-align: left;
+}
 
 /* Heder */
 #homeFullScreen {
